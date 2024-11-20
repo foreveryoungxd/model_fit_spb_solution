@@ -71,7 +71,7 @@ class GetRecogniseFramesFromVideo:
 
 def main():
     class_recog = GetRecogniseFramesFromVideo()
-    class_recog.recognize_video(r"C:\Users\Evgenii\Desktop\Датасет видео\27042021_вертолетниип 12_30.mp4",
+    class_recog.recognize_video(r"C:\Users\Evgenii\Desktop\data\0ac1254ca3e6b61587e9.jpg",
                                 skip_frames=5)
 
 
